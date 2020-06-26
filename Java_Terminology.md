@@ -1,3 +1,4 @@
+# A collection of Java terminology  
 
 - Method: It is a collection of statements that performs an operation. We'll be using a special method
 called the main method that Java looks for when running a program. It is the entry point of any Java code. 

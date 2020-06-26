@@ -28,4 +28,6 @@ called the main method that Java looks for when running a program. It is the ent
 
 - Precision: refers to the format and amount of space occupied by the type. Single precision occupies 32 bits (so the width of 32) and a Double precision occupies 64 bits (width of 64)
 
-- Char: Similar to string i.e. it can store a character but can only store 1 character. Used where is used it asked to press one key, last key stroke… 
+- Char: Similar to string i.e. it can store a character but can only store 1 character. Used where is used it asked to press one key, last key stroke… A char occupies two bytes of memory, or 16 bits and thus has a width of 16. It is NOT as single byte because it allows us to store Unicode characters. 
+
+

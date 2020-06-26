@@ -30,4 +30,6 @@ called the main method that Java looks for when running a program. It is the ent
 
 - Char: Similar to string i.e. it can store a character but can only store 1 character. Used where is used it asked to press one key, last key stroke… A char occupies two bytes of memory, or 16 bits and thus has a width of 16. It is NOT as single byte because it allows us to store Unicode characters. 
 
+- Boolean: In Java terms, we can have a Boolean primitive type and it can be set to two values only, true or false. 
+
 

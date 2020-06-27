@@ -1,5 +1,5 @@
 # Java
 
-This repo contains all the learning material and curriculum for siting in Oracle Java Dev Certification.
+This repo contains learning materials covering the curriculum for Oracle Java Dev exam.
 
 - Written on Intelli J

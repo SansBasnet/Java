@@ -32,4 +32,6 @@ called the main method that Java looks for when running a program. It is the ent
 
 - Boolean: In Java terms, we can have a Boolean primitive type and it can be set to two values only, true or false. 
 
+- String: Is a sequence of characters. Is a datatype, which is not a primitive type. It is actually a class. 
+  - Strings in Java are immutable. Meaning that you cannot change a String after it is created instaead a new String is created if you delete characters out of a String. 
 

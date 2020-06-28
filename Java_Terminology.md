@@ -41,4 +41,4 @@ called the main method that Java looks for when running a program. It is the ent
 
 - Expression: Is formed by combining variables, literals, method return values and operators. 
 
-- 
+- Code block: Allows more than one statement to be exectuted- a block of code. 

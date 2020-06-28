@@ -35,4 +35,6 @@ called the main method that Java looks for when running a program. It is the ent
 - String: Is a sequence of characters. Is a datatype, which is not a primitive type. It is actually a class. 
   - Strings in Java are immutable. Meaning that you cannot change a String after it is created instaead a new String is created if you delete characters out of a String. 
 
-- Operators: Are special symbols that perform specific operations on one, two, or three operands, and then return a result. Addition, Sub, Multi, Div are examples. 
+- Operators: Are special symbols that perform specific operations on one, two, or three operands, and then return a result. Addition, Sub, Multi, Div are examples.
+
+- Operand: Is a term used to describe any object that is manipulated by an operator. If we consider this statement **intmyVar = 15+12;** then **15** and **12** are operands. Variables used instead of literals are also operands. So, **double mySalary = hoursWorked * houralyRate;**  then  **hoursWorked** and **houralyRate;** are also operands. 

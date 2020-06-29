@@ -44,9 +44,8 @@ called the main method that Java looks for when running a program. It is the ent
 - Code block: Allows more than one statement to be exectuted- a block of code. **{ \\write code }** 
 
 - Logical AND and logical OR operator: 
- - AND: The 'and' operator comes in two flavours in Java, as does the OR operator.
+   - AND: The 'and' operator comes in two flavours in Java, as does the OR operator.
  && is the logical **AND** which operates on boolean operands - checking if a given condition is true or false. 
- 
   - OR: || is the logical **OR** operates on boolean operands - checking if a given condition is true or false. 
   
   - NOT operator: The ! or NOT operator is also known as the logical complemenent operator. For use with booleans it tests the alternate value by adding ! operator before the value we can check the opposite.  

@@ -53,3 +53,5 @@ called the main method that Java looks for when running a program. It is the ent
 - Ternary Operator: The ternary operator is a shortcut to assigning one of two values to a variable depending on a given condition. It is a shortcut of the if-then-else statement 
 
 - Procedure: A void **method**
+
+- DiffMerge: A program that helps to visually compare and merge files on any OS. 

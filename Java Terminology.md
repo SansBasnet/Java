@@ -48,6 +48,8 @@ called the main method that Java looks for when running a program. It is the ent
  && is the logical **AND** which operates on boolean operands - checking if a given condition is true or false. 
   - OR: || is the logical **OR** operates on boolean operands - checking if a given condition is true or false. 
   
-  - NOT operator: The ! or NOT operator is also known as the logical complemenent operator. For use with booleans it tests the alternate value by adding ! operator before the value we can check the opposite.  
+- NOT operator: The ! or NOT operator is also known as the logical complemenent operator. For use with booleans it tests the alternate value by adding ! operator before the value we can check the opposite.  
   
-  - Ternary Operator: The ternary operator is a shortcut to assigning one of two values to a variable depending on a given condition. It is a shortcut of the if-then-else statement 
+- Ternary Operator: The ternary operator is a shortcut to assigning one of two values to a variable depending on a given condition. It is a shortcut of the if-then-else statement 
+
+- Procedure: A void **method**

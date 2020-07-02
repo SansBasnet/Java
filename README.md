@@ -1,5 +1,5 @@
 # Java
 
-This repo contains learning materials covering the curriculum for Oracle Java Dev exam.
+### Using IntelliJ. 
 
-- Written on Intelli J
+This repo contains learning materials covering the curriculum for Oracle Java Dev exam.

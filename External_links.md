@@ -9,5 +9,5 @@ http://www.cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html
 #### Java - Basic operators
 https://www.tutorialspoint.com/java/java_basic_operators.htm
 
-#### Java Version control 
+#### Java Version control and more
 https://sourcegear.com/diffmerge/

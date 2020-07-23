@@ -4,7 +4,7 @@
 
 This repo contains learning materials for Oracle Java Dev exam and for Java programming in general. 
 
-- FloatAndDoubl
+- FloatAndDouble
 - ByteShortIntLong
 - charAndBoolean
 - Strings

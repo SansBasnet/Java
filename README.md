@@ -12,6 +12,6 @@ This repo contains learning materials for Oracle Java Dev exam and for Java prog
 - Strings
 - Operators
 - IfKeywordAndCodeBlocks
-- SpeedConverte
+- SpeedConverter
 - DayOfTheWeek
 - 

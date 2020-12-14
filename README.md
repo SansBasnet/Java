@@ -14,5 +14,5 @@ This repo contains learning materials for Oracle Java Developer exam and for Jav
 - IfKeywordAndCodeBlocks
 - SpeedConverter
 - DayOfTheWeek
--
+
 
